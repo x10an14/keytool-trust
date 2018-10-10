@@ -1,6 +1,8 @@
 # keytool-trust
 
 Tool to install SSL certificates in JVM keystores
+## Forked from
+https://github.com/ssbarnea/keytool-trust.git, <https://stackoverflow.com/a/28324237/1503549>
 
 ## How to use?
 ./keytool-trust server [port]
