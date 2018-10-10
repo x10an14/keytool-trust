@@ -5,7 +5,7 @@ Tool to install SSL certificates in JVM keystores
 https://github.com/ssbarnea/keytool-trust.git, <https://stackoverflow.com/a/28324237/1503549>
 
 ## How to use?
-./keytool-trust server [port]
+./keytool-trust server [port] [cacert]
 
 If port is not specified it will assume 443.
 
